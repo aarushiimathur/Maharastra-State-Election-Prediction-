@@ -1,0 +1,6 @@
+Party,Predicted_Seats,Average_Sentiment,Final_Seats,Seat_Share_Percentage
+BJP,105,0.009492,105.0,36.46
+Shiv Sena,56,-0.005274,56.0,19.44
+NCP,54,0.004637,54.0,18.75
+Congress,44,0.02628,44.0,15.28
+Other,29,,29.0,10.07
